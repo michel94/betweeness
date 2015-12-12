@@ -1,0 +1,4 @@
+java -Xmx11G -cp lib/'*':. ClusterService
+
+# ./run graph_basename proportion_of_nodes_used
+# ./run graph_basename proportion_of_nodes_used -c # set clusters manually in the code

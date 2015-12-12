@@ -1,0 +1,17 @@
+3
+01:28:17.197 [main] INFO  ROOT - Loading graph...
+01:28:17.298 [main] INFO  ROOT - Completed.
+01:28:17.304 [main] INFO  ROOT - Elapsed: 97ms [31,777,927 bytes, 331,020,072.92 bytes/s, 3.02 ns/byte]
+01:28:17.304 [main] INFO  ROOT - Loading offsets...
+01:28:17.341 [main] INFO  ROOT - Completed.
+01:28:17.342 [main] INFO  ROOT - Elapsed: 39ms [972,934 deltas, 25,603,526.32 deltas/s, 39.06 ns/delta]
+01:28:17.342 [main] INFO  ROOT - Pointer bits per node: 10.30
+number of nodes972933
+1557/7783 5
+Started
+529286, 252663, 257259, 252665, 252607, 262436, 529290, 252631, 529289, 716768, 
+Reading from server 0
+Reading from server 1
+Reading from server 2
+Reading from server 3
+252663, 529286, 257259, 252665, 252607, 716768, 529289, 529290, 262436, 252634, 
